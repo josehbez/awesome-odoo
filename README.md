@@ -14,7 +14,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 ## Contents
 * Website
 * Sales
-    * [Mercadolibre](#mercadolibre)
+    * [Mercadolibre](#sales)
 * Finance
 * Operation
 * Manufacturing
@@ -32,8 +32,6 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 ## Website
 
 ## Sales 
-
-### Mercadolibre
 
 * [MercadoLibre](https://github.com/ctmil/meli_oerp) -- Module synchronize MercadoLibre with Odoo
 
