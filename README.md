@@ -13,8 +13,9 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## Contents
 * Website
+    * [MercadoPago](#website)
 * Sales
-    * [Mercadolibre](#sales)
+    * [MercadoLibre](#sales)
 * Finance
 * Operation
 * Manufacturing
@@ -31,9 +32,11 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## Website
 
+* [MercadoPago](https://github.com/ctmil/payment_mercadopago) - MercadoPago payment module for Odoo Ecommerce
+
 ## Sales 
 
-* [MercadoLibre](https://github.com/ctmil/meli_oerp) -- Module synchronize MercadoLibre with Odoo
+* [MercadoLibre](https://github.com/ctmil/meli_oerp) - Module synchronize MercadoLibre with Odoo
 
 ## Finance 
 
