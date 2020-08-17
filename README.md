@@ -12,19 +12,57 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
 ## Contents
-* [Command line](#command-line) 
+* Website
+* Sales
+    * [Mercadolibre](#mercadolibre)
+* Finance
+* Operation
+* Manufacturing
+* Human resources
+* Communication
+* Marketing
+* Customization
+* Cloud Platform
+* [DevOps](#devops)
+    * [Command line](#command-line) 
 * [Resources](#resources) 
     * [Twitter](#twitter)
     * [Reddit](#reddit)
 
+## Website
+
+## Sales 
+
+### Mercadolibre
+
+* [MercadoLibre](https://github.com/ctmil/meli_oerp) -- Module synchronize MercadoLibre with Odoo
+
+## Finance 
+
+## Operation 
+
+## Manufacturing 
+
+## Human resources 
+
+## Communication
+
+## Marketing
+
+## Customization
+
+## Cloud Platform
+
+## DevOps
+
 ### Command line
+
 Libraries for building standard or basic Command Line applications.
 
 * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module / AddOns Odoo
 * [Odoo backup](https://medium.com/@josehbez/simple-cli-odoo-backup-60d91bc3b9ec) - Python script that uses the default URL /web/database/backup to generate backups.
 
-
-### Resources
+## Resources
 
 #### Twitter
 * [@Odoo](https://twitter.com/Odoo)
