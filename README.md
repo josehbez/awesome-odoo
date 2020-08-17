@@ -12,20 +12,22 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
 ## Contents
-* Website
-    * [MercadoPago](#website)
-* Sales
-    * [MercadoLibre](#sales)
-* Finance
-* Operation
-* Manufacturing
-* Human resources
-* Communication
-* Marketing
-* Customization
-* Cloud Platform
+* [Website](#website)
+    * MercadoPago
+* [Sales](#sales)
+    * MercadoLibre
+* [Finance](#finances)
+* [Operation](#operation)
+* [Manufacturing](#manufacturing)
+* [Human resources](#human-resources)
+* [Communication](#communication)
+    * Slack notification
+* [Marketing](#marketing)
+* [Customization](#customization)
+* [Cloud Platform](#cloud-platform)
 * [DevOps](#devops)
     * [Command line](#command-line) 
+* [Developers](#developers)
 * [Resources](#resources) 
     * [Twitter](#twitter)
     * [Reddit](#reddit)
@@ -48,6 +50,8 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## Communication
 
+* [Slack notification](https://github.com/maxsbiz/odoo/tree/11.0/msb_slack) - Send notification by Webhook (channel messages, Messages direct & chatter field tracking)
+
 ## Marketing
 
 ## Customization
@@ -55,6 +59,8 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 ## Cloud Platform
 
 ## DevOps
+
+## Developers
 
 ### Command line
 
