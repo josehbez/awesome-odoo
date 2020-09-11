@@ -13,15 +13,13 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## Contents
 * [Website](#website)
-    * MercadoPago
 * [Sales](#sales)
-    * MercadoLibre
 * [Finance](#finances)
 * [Operation](#operation)
 * [Manufacturing](#manufacturing)
 * [Human resources](#human-resources)
 * [Communication](#communication)
-    * Slack notification
+* [Timesheet](#timesheet)
 * [Marketing](#marketing)
 * [Customization](#customization)
 * [Cloud Platform](#cloud-platform)
@@ -51,6 +49,10 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 ## Communication
 
 * [Slack notification](https://github.com/maxsbiz/odoo/tree/11.0/msb_slack) - Send notification by Webhook (channel messages, Messages direct & chatter field tracking)
+
+## Timesheet
+
+* [Gnome-Pomodoro-Tracking](https://github.com/josehbez/gnome-pomodoro-tracking) - It is a connector to record time entries in projects or tasks, using RPC.
 
 ## Marketing
 
