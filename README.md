@@ -60,6 +60,8 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## Cloud Platform
 
+* [odoo-saas-tools](https://github.com/it-projects-llc/odoo-saas-tools) - Create your own SaaS business. Sale & Manage odoo database
+
 ## DevOps
 
 ## Developers
