@@ -24,11 +24,11 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 * [Customization](#customization)
 * [Cloud Platform](#cloud-platform)
 * [DevOps](#devops)
-    * [Command line](#command-line) 
 * [Developers](#developers)
-* [Resources](#resources) 
-    * [Twitter](#twitter)
-    * [Reddit](#reddit)
+  * [Command line](#command-line)
+* [Resources](#resources)
+  * [Twitter](#twitter)
+  * [Reddit](#reddit)
 
 ## Website
 
@@ -69,7 +69,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 ### Command line
 
 Libraries for building standard or basic Command Line applications.
-
+* [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
 * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module / AddOns Odoo
 * [Odoo backup](https://medium.com/@josehbez/simple-cli-odoo-backup-60d91bc3b9ec) - Python script that uses the default URL /web/database/backup to generate backups.
 
