@@ -1,9 +1,6 @@
-
-# Awesome Odoo 
+# Awesome Odoo
 
 A curated list of awesome Odoo frameworks, libraries and software. Inspired by [awesome-go](https://github.com/avelino/awesome-go)
-
-## Sponsorships
 
 ## Contributing
 
@@ -12,6 +9,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 **If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!**
 
 ## Contents
+
 * [Website](#website)
 * [Sales](#sales)
 * [Finance](#finances)
@@ -25,7 +23,6 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 * [Cloud Platform](#cloud-platform)
 * [DevOps](#devops)
 * [Developers](#developers)
-  * [Command line](#command-line)
 * [Resources](#resources)
   * [Twitter](#twitter)
   * [Reddit](#reddit)
@@ -34,17 +31,17 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 * [MercadoPago](https://github.com/ctmil/payment_mercadopago) - MercadoPago payment module for Odoo Ecommerce
 
-## Sales 
+## Sales
 
 * [MercadoLibre](https://github.com/ctmil/meli_oerp) - Module synchronize MercadoLibre with Odoo
 
-## Finance 
+## Finance
 
-## Operation 
+## Operation
 
-## Manufacturing 
+## Manufacturing
 
-## Human resources 
+## Human resources
 
 ## Communication
 
@@ -64,18 +61,18 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## DevOps
 
+* [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
+* [odoo Module Community](https://gist.github.com/josehbez/a0790e91bd807ca174834fb67c3e0e8c) - This script is ideal for a private repository that publishes modules to a public repository for read only.
+
 ## Developers
 
-### Command line
-
-Libraries for building standard or basic Command Line applications.
-* [Odoo Module Packaging](https://gist.github.com/josehbez/b14bb8b7dd6c0c985a96e57cff7cef5a) - A simple python script that compress odoo module with its dependency modules in a file ZIP.
 * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module / AddOns Odoo
 * [Odoo backup](https://medium.com/@josehbez/simple-cli-odoo-backup-60d91bc3b9ec) - Python script that uses the default URL /web/database/backup to generate backups.
 
 ## Resources
 
-#### Twitter
+### Twitter
+
 * [@Odoo](https://twitter.com/Odoo)
 * [@OdooStatus](https://twitter.com/OdooStatus)
 * [@Odoo_Events](https://twitter.com/Odoo_Events)
@@ -83,5 +80,6 @@ Libraries for building standard or basic Command Line applications.
 * [@odootechnical](https://twitter.com/odootechnical)
 * [@OdooJobss](https://twitter.com/OdooJobss)
 
-#### Reddit
+### Reddit
+
 * [r/Odoo](https://www.reddit.com/r/Odoo/)
