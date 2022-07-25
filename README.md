@@ -12,14 +12,14 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 * [Website](#website)
 * [Sales](#sales)
-* [Finance](#finances)
-* [Operation](#operation)
-* [Manufacturing](#manufacturing)
-* [Human resources](#human-resources)
-* [Communication](#communication)
+<!-- * [Finance](#finances) -->
+<!-- * [Operation](#operation) -->
+<!-- * [Manufacturing](#manufacturing) -->
+<!-- * [Human resources](#human-resources) -->
+<!-- * [Communication](#communication) -->
 * [Timesheet](#timesheet)
-* [Marketing](#marketing)
-* [Customization](#customization)
+<!-- * [Marketing](#marketing) -->
+<!-- * [Customization](#customization) -->
 * [Cloud Platform](#cloud-platform)
 * [DevOps](#devops)
 * [Developers](#developers)
@@ -35,25 +35,25 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 * [MercadoLibre](https://github.com/ctmil/meli_oerp) - Module synchronize MercadoLibre with Odoo
 
-## Finance
+<!-- ## Finance -->
 
-## Operation
+<!-- ## Operation -->
 
-## Manufacturing
+<!-- ## Manufacturing -->
 
-## Human resources
+<!-- ## Human resources -->
 
-## Communication
+<!-- ## Communication -->
 
 * [Slack notification](https://github.com/maxsbiz/odoo/tree/11.0/msb_slack) - Send notification by Webhook (channel messages, Messages direct & chatter field tracking)
 
 ## Timesheet
 
-* [Gnome-Pomodoro-Tracking](https://github.com/josehbez/gnome-pomodoro-tracking) - It is a connector to record time entries in projects or tasks, using RPC.
+* [Gnome-Pomodoro-Tracking](https://github.com/gnome-pomodoro/gnome-pomodoro-tracking) - It is a connector to record time entries in projects or tasks, using RPC.
 
-## Marketing
+<!-- ## Marketing -->
 
-## Customization
+<!-- ## Customization -->
 
 ## Cloud Platform
 
@@ -66,20 +66,22 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 
 ## Developers
 
-* [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module / AddOns Odoo
+* [Odoo celery](https://github.com/novacode-nl/odoo-celery) - Connect Odoo (API) with Celery (Distributed Task Queue)
 * [backup.sh](https://medium.com/@josehbez/simple-cli-odoo-backup-60d91bc3b9ec) - Bash script that uses the default URL /web/database/backup to generate backups.
 * [Kodoo](https://github.com/chermed/kodoo) - Terminal UI for Odoo
 
 ## Resources
 
 ### Twitter
-
 * [@Odoo](https://twitter.com/Odoo)
 * [@OdooStatus](https://twitter.com/OdooStatus)
 * [@Odoo_Events](https://twitter.com/Odoo_Events)
 * [@OdooCommunity](https://twitter.com/OdooCommunity)
 * [@odootechnical](https://twitter.com/odootechnical)
 * [@OdooJobss](https://twitter.com/OdooJobss)
+
+### Facebook
+* [Odoo Developers](https://www.facebook.com/groups/440544916386445)
 
 ### Reddit
 
