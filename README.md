@@ -69,6 +69,7 @@ Please take a quick gander at the [contribution guidelines](CONTRIBUTING.md) fir
 * [Odoo Graph Dependency](https://medium.com/@josehbez/dependencia-gr%C3%A1fica-odoo-e518e8a6ceb9) - The Python Script that helps you visualize the graphical form of the dependencies of a module / AddOns Odoo
 * [backup.sh](https://medium.com/@josehbez/simple-cli-odoo-backup-60d91bc3b9ec) - Bash script that uses the default URL /web/database/backup to generate backups.
 * [Kodoo](https://github.com/chermed/kodoo) - Terminal UI for Odoo
+* [go-odoo](https://github.com/skilld-labs/go-odoo) - Golang wrapper for Odoo API
 
 ## Resources
 
