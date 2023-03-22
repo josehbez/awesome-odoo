@@ -20,7 +20,7 @@ backup.sh http://localhost:8069 admin demo zip ./
 "    
 }
 function backup_request(){
-    backup_location="$3-$(date +%s).$4"
+    backup_location="$3-$(date +"%Y%m%d-%H%M%S").$4"
     curl "$1/web/database/backup" \
         -X POST \
         --header "Content-Type: application/x-www-form-urlencoded" \
