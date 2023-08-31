@@ -71,7 +71,7 @@ if [[ `git status --porcelain` ]]; then
     git commit -m "$MSG"
     git push --set-upstream origin $BRANCH
     cd ..
-    MSG_NOTIFY="Publish $BRANCH \n\n ${PUBLISH_LIST[*]}" 
+    MSG_NOTIFY="Publish at branch: $BRANCH \n\n ${PUBLISH_LIST[*]}" 
     echo $MSG_NOTIFY
     if [ ${#PUBLISH_LIST[@]} > 0 ]; then 
         if [[ $SLACK_WEBHOOK ]]; then 
