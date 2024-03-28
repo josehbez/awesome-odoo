@@ -1,12 +1,12 @@
 <p align="center">  
-  <a href="https://github.com/josehbez/awesome-odoo">
-    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/josehbez/awesome-odoo?style=social"/>
+  <a href="https://github.com/sentilis/awesome-odoo">
+    <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/sentilis/awesome-odoo?style=social"/>
   </a>
   <a>
-   <img alt="GitHub" src="https://img.shields.io/github/license/josehbez/awesome-odoo"/>
+   <img alt="GitHub" src="https://img.shields.io/github/license/sentilis/awesome-odoo"/>
    </a>
    <a>
-     <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/josehbez/awesome-odoo/master"/>
+     <img alt="GitHub last commit (branch)" src="https://img.shields.io/github/last-commit/sentilis/awesome-odoo/master"/>
   </a>
 </p>
 
